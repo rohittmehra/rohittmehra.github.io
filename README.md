@@ -116,9 +116,9 @@ The portfolio website showcases:
 
 **GitHub:** [github.com/rohitmehra](https://github.com/rohitmehra)
 
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/rohitt-mehra)
 
-**Portfolio:** [rohitmehra.github.io](https://rohitmehra.github.io)
+**Portfolio:** [rohitmehra.github.io](https://rohittmehra.github.io)
 
 ---
 
