@@ -4,7 +4,7 @@ Welcome to my Data Analytics portfolio repository.
 
 This repository contains the source code for my personal portfolio website, featuring my data analytics projects, technical skills, experience, and professional profile.
 
-🌐 **Portfolio:** [rohitmehra.github.io](https://rohittmehra.github.io)
+🌐 **Portfolio:** [rohittmehra.github.io](https://rohittmehra.github.io)
 
 ---
 
