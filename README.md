@@ -114,7 +114,7 @@ The portfolio website showcases:
 
 ## Connect With Me
 
-**GitHub:** [github.com/rohitmehra](https://github.com/rohitmehra)
+**GitHub:** [github.com/rohitmehra](https://github.com/rohittmehra)
 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/rohitt-mehra)
 
